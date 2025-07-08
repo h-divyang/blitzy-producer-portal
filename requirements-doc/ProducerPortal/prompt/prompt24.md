@@ -1,0 +1,2 @@
+I have provided my responses to the approach files in Aime/workspace/requirements/ProducerPortal/queue/in-progress.
+Analyze the responses and regenrate an approach with anything else remaining before we bgin the rest of the process.
